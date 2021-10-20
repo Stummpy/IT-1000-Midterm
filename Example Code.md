@@ -72,4 +72,4 @@ final_position = initial_position + initial_velocity * time_elapsed + 0.5 * acce
 
 print("\n The object's final position is", final_position)
 ```
-
+[Home Page](https://github.com/Stummpy/IT-1000-Midterm/blob/main/README.md)
