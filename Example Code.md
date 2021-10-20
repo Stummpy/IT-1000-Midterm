@@ -1,7 +1,8 @@
 ## This sample code displayed on this page is just one of the many assignments I was tasked with completing this semester in IT 1000. 
 > The assignment focused on creating our own turtle graphic in Python. If you were to run this program, you will find the end result is a stoplight!
 
-` import turtle
+```python
+import turtle
 
 painter = turtle.Turtle()
 animation_speed = 3
@@ -55,5 +56,20 @@ for i in range(1):
     painter.circle(100)
 painter.end_fill()
 
-turtle.done() `
+turtle.done()
+```
+
+## This code is also another example of an assignment I completed in IT 1000
+> The goal was to be able to demonstrate basic coding skills by creating a calculator that can find an object's position with user input.
+
+```python
+initial_position = float(input("Enter Initial Position: "))
+initial_velocity = float(input("Enter Initial Velocity: "))
+acceleration = float(input("Enter the Acceleration: "))
+time_elapsed = float(input("Enter the Time Elapsed: "))
+
+final_position = initial_position + initial_velocity * time_elapsed + 0.5 * acceleration * time_elapsed ** 2
+
+print("\n The object's final position is", final_position)
+```
 
