@@ -20,8 +20,9 @@
   * You can also download any of your pages or work into several different formats.
   * One of such download formats includes: Markdown!
 
-**Here is a sample of the said Markdown from my own personal Notion:**
+### **Here is a sample of the said Markdown from my own personal Notion:**
 > I disabled the links since you won't be able to access my Notion even if I gave you the link.
+
 
 ## Notes:
 
@@ -40,7 +41,6 @@
 - ***Module 4:* Intro to Programming**
     
     Module 4: Challenge, Quizzes & Links
-   
    
    
 > Here is a picture of my Notion for this class in particular (all images you see from here have been resized and cropped to fill the screen.):
