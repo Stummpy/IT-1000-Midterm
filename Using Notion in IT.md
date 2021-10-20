@@ -60,15 +60,19 @@
 > Lastly, I'll display some additional photos of other pages on my Notion to show you layouts I created and designed to my interest.
 
  * **Home Page**
+ 
 ![Screenshot (443)](https://user-images.githubusercontent.com/89430068/138038316-a9ebf59a-a6c3-481c-9c6b-b8cdffd6d2e8.png)
 
  * **Academia Page**
+ 
 ![Screenshot (441)](https://user-images.githubusercontent.com/89430068/138038340-1a3e13bd-4f04-46ec-a631-7c4c9cceae2a.png)
 
  * **Fall Semester Page**
+ 
 ![Screenshot (442)](https://user-images.githubusercontent.com/89430068/138038364-08aa5f52-1f78-411f-a656-ef34adf34a3e.png)
 
-Besides all that, your Notion page isn't permament. You can change it as much as you want, and believe me I change mine often. 
-I hope this info page incouraged you to take a look at Notion and try it out.
+* Besides all that, your Notion page isn't permament. You can change it as much as you want, and believe me I change mine often. 
+
+* I hope this info page incouraged you to take a look at Notion and try it out.
 
 [Home Page](https://github.com/Stummpy/IT-1000-Midterm/blob/main/README.md)
