@@ -15,3 +15,5 @@
 * **Vision:** To inspire new and veteran members in the crypto society to learn and expand their knowledge on crypto. 
 
 * **Mission:** To bring this new ecommerce to light admits a shift in the value of currency. 
+
+[Home Page](https://github.com/Stummpy/IT-1000-Midterm/blob/main/README.md)
