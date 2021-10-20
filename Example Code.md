@@ -1,7 +1,7 @@
 ## This sample code displayed on this page is just one of the many assignments I was tasked with completing this semester in IT 1000. 
 > The assignment focused on creating our own turtle graphic in Python. If you were to run this program, you will find the end result is a stoplight!
 
-`import turtle
+` import turtle
 
 painter = turtle.Turtle()
 animation_speed = 3
@@ -55,6 +55,5 @@ for i in range(1):
     painter.circle(100)
 painter.end_fill()
 
-turtle.done()
-`
+turtle.done() `
 
