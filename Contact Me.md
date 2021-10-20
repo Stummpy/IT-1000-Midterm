@@ -1,4 +1,4 @@
-# Sites to reach me
+# Sites to contact me
 
 * [Linkedin](https://www.linkedin.com/in/lauren-stumpf-54a376211/)
 * [Facebook](https://www.facebook.com/)
