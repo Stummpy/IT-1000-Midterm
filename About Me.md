@@ -18,3 +18,5 @@ That school was called [**Canterbury Christ Church University**](https://www.can
 
 ### **_What are you studying?_**
 >I'm majoring in **IT Engineering** and minoring in **Business**.
+
+[Home Page](https://github.com/Stummpy/IT-1000-Midterm/blob/main/README.md)
